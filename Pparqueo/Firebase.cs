@@ -3,7 +3,7 @@ using FireSharp.Interfaces;
 using FireSharp.Response;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using Parqueo.Parametros;
+using Pparqueo.Parametros;
 using System.IO;
 using System.Net;
 
